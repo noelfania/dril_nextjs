@@ -1,0 +1,38 @@
+npm install
+
+/dfont
+npm run dev
+npm run build
+npm run start
+
+"axios": "^0.19.2", // http 요청 보낼때 사용
+
+"bcrypt": "^4.0.1", // 비밀번호 등 암호화에 사용
+
+"cookie-parser": "^1.4.5", // 로그인할때 쿠키랑, 세션을 사용.
+
+"cors": "^2.8.5", // Cross-Origin Resource Sharing에 사용.
+
+"dotenv": "^8.2.0", // 환경변수 관리를 위해 사용.
+
+"express": "^4.17.1", //node 서버 만으론 코딩도 지저분하고 지원하는게 적다. backend server frame work인 express를 올린다.
+
+"express-session": "^1.17.0", // 로그인할때 세션을 저장하기 위해 사용.
+
+"helmet": "^3.22.0", // node, express 보안
+
+"hpp": "^0.2.3" // node, express 보안
+
+"morgan": "^1.10.0" // 서버 로그
+
+"multer": "^1.4.2" // 이미지 업로드
+
+"passport": "^0.4.1", // 회원가입이나 인증전략 등을 쉽게
+
+"passport-local": "^1.0.0" // 회원가입이나 인증전략 등을 쉽게
+
+"sequelize": "^5.21.5", // sql을 몰라도 sql을 쉽게 사용할수 있도록.(ORM->SQL과 javasciprt를 연결.)
+
+"sequelize-cli": "^5.5.1" // sql을 몰라도 sql을 쉽게 사용할수 있도록.(ORM->SQL과 javasciprt를 연결.)
+
+"nodemon": "^2.0.2" // nodejs 서버는 서버수정시 서버를 재시작 해줘야 하는데, 재시작할 페이지를 설정해주면 수정시 재시작함.

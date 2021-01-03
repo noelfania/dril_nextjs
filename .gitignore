@@ -1,0 +1,12 @@
+# back
+#
+back/node_modules/
+back/.env
+
+# front
+#
+front/.next/
+front/node_modules/
+
+# vscode-workspace
+workspace.code-workspace
