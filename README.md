@@ -2,7 +2,7 @@
 
 ## *Goals of this repo*
 
-- Understanding how `SSR` work.
+- Understanding how `SSR` works.
 - Adapting collaborative development `Style`.
 - Stick into development `Trends`.
 
